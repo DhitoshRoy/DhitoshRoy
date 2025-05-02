@@ -2,7 +2,7 @@
 
 👀 I’m interested in **coding**, **open-source projects**, and **problem-solving**  
 
-🌱 I’m currently learning **full-stack web development** and **data structures & algorithms**  
+🌱 I’m currently working **full-stack web development** and **data structures & algorithms**  
 
 💞️ I’m looking to collaborate on **web apps**, **JavaScript/React projects**, and **beginner-friendly open-source repositories**  
 
