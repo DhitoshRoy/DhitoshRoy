@@ -1,22 +1,21 @@
-# <div align="center">Hi there 👋, I'm DhitoshRoy!</div>
-
 <div align="center">
+  <h1>Hi 👋, I'm DhitoshRoy!</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </div>
 
 ---
 
-### 🌟 About Me
-I’m a passionate **Full-Stack Web Developer** who loves coding, open-source, and problem-solving!  
-Currently leveling up in **React, Node.js, and Data Structures & Algorithms** 🚀
+### 👀 About Me
+💻 Full-Stack Developer | Open-Source Enthusiast | Problem Solver  
+🌱 Currently leveling up in **React, Node.js & DSA**  
+⚡ Fun Fact: I debug faster with **coffee ☕** and **lo-fi beats 🎧**
 
 ---
 
 ### 🤝 Let’s Collaborate
-I’m open to work on:  
 - 🌐 Web Apps  
 - ⚛️ JavaScript & React Projects  
-- 🐣 Beginner-Friendly Open Source Contributions  
+- 🐣 Beginner-Friendly Open Source Repos
 
 ---
 
@@ -35,7 +34,7 @@ I’m open to work on:
 
 ---
 
-### 💻 Skills
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -47,7 +46,7 @@ I’m open to work on:
 
 ---
 
-### ⚡ GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhitoshRoy&show_icons=true&theme=radical&count_private=true&hide_title=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhitoshRoy&layout=compact&theme=radical"/>
@@ -55,20 +54,24 @@ I’m open to work on:
 
 ---
 
-### 🎯 Fun Fact
-I can **debug code faster with coffee ☕ and lo-fi beats 🎧**  
+### 🎯 Fun Projects
+<div align="center">
+- [Project 1](link) - 🚀 Short description  
+- [Project 2](link) - ✨ Short description  
+- [Project 3](link) - 🔥 Short description  
+</div>
 
 ---
 
-### 🛠️ Projects I'm Proud Of
-- [Project 1 Name](link) - Brief description & tech used  
-- [Project 2 Name](link) - Brief description & tech used  
-- [Project 3 Name](link) - Brief description & tech used  
+### 🌍 Visitors
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=DhitoshRoy.DhitoshRoy" />
+</div>
 
 ---
 
 <div align="center">
-  <h3>Thanks for stopping by! Let's build something amazing together 🚀</h3>
+  <h3>Thanks for stopping by! Let's build something awesome together 🚀</h3>
 </div>
 
 
